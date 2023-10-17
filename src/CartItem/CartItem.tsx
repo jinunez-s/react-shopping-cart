@@ -41,5 +41,5 @@ const CartItem: React.FC<Props> = ({ item, addToCart, removeFromCart }) => (
     <img src={item.image} alt={item.title} />
   </Wrapper>
 );
-
+//test iphone 
 export default CartItem;
